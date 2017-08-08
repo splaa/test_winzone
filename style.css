@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+.head{
+/*	background: url(header/img/head.png);
+	background-size: cover;*/
+	background-color: darkgray;
+}
+
+.win_zone{
+	width : 149px ;
+	height : 39px ;
+}
+.win_zone_win{
+	font-family : Panton ;
+	color : #9bdf0a ;
+	font-size : 32px ;
+	font-weight : 700 ;
+	line-height : 72px ;
+}
+.win_zone_zone{
+	font-family: Panton;
+	color: #ffffff;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 72px;
+}
+.win_zone_slogan_first_white{
+	font-family: Panton;
+	color: #ffffff;
+	font-size: 9px;
+	font-weight: 600;
+	line-height: 12px;
+}
+.win_zone_slogan_second_green{
+	font-family: Panton;
+	color: #9bdf0b;
+	font-size: 9px;
+	font-weight: 600;
+	line-height: 12px;
+}
