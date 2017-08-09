@@ -241,6 +241,7 @@ body{
 }
 .bilet{
 	background-color: #ffffff;
+	display: inline-flex;
 }
 .bilet_header{
 	width: 190px;
@@ -270,4 +271,6 @@ body{
 	border-width: 2px;
 	border-color: #dbdbdb;
 	border-style: solid;
+}
+.bilet_body{
 }
